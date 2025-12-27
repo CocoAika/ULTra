@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying notebook, please cite our paper."
+title: "ULTra Reproducibility Repository"
+type: software
+license: MIT
+authors:
+  - family-names: Hosseini
+    given-names: Hesam
+  - family-names: Hosseini Mighan
+    given-names: Ghazal
+  - family-names: Afzali
+    given-names: Amirabbas
+  - family-names: Amini
+    given-names: Sajjad
+  - family-names: Houmansadr
+    given-names: Amir
+
+repository-code: "https://github.com/CocoAika/ULTra"
+url: "https://github.com/CocoAika/ULTra"
+
+keywords:
+  - interpretability
+  - transformers
+  - vision transformers
+  - token interpretability
+  - unsupervised segmentation
+  - explainability
+
+preferred-citation:
+  type: article
+  title: "ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding and Segmentation"
+  authors:
+    - family-names: Hosseini
+      given-names: Hesam
+    - family-names: Hosseini Mighan
+      given-names: Ghazal
+    - family-names: Afzali
+      given-names: Amirabbas
+    - family-names: Amini
+      given-names: Sajjad
+    - family-names: Houmansadr
+      given-names: Amir
