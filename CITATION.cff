@@ -40,3 +40,8 @@ preferred-citation:
       given-names: Sajjad
     - family-names: Houmansadr
       given-names: Amir
+
+  # journal: "Transactions on Machine Learning Research"
+  # year: 2025
+  # archive-prefix: arXiv
+  # eprint: "XXXX.XXXXX"
